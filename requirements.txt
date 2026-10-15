@@ -1,0 +1,9 @@
+pygpod==0.0.6
+ytmusicapi
+yt-dlp
+mutagen
+Pillow
+imageio-ffmpeg
+PySide6
+pyusb
+libusb-package
